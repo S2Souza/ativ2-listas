@@ -6,15 +6,16 @@ h1 { color: brown;
 text-align: center;}
 
 main { margin-left: 33%;
-    h2 { background-color: brown;
-padding-left: 5%;
-padding-right: 5%;}}
+   }
 
 h3 { color: rgb(255, 255, 255);}
 
 header { background-color: black;}
 
 ul { color: white;}
+
+p { background-color: brown; 
+color: beige;}
 
 
 
