@@ -5,7 +5,10 @@ footer { background-color: black;}
 h1 { color: brown;
 text-align: center;}
 
-main { margin-left: 33%;}
+main { margin-left: 33%;
+    h2 { background-color: brown;
+padding-left: 5%;
+padding-right: 5%;}}
 
 h3 { color: rgb(255, 255, 255);}
 
@@ -13,8 +16,6 @@ header { background-color: black;}
 
 ul { color: white;}
 
-h2 { background-color: brown;
-padding-left: 5%;
-padding-right: 5%;}
+
 
 
